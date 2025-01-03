@@ -1,5 +1,6 @@
 package ms8;
-
+// resolve this question using map approach
+//https://www.youtube.com/watch?v=JpXlsCAD1kg
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         int n = nums.length;
