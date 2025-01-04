@@ -1,4 +1,5 @@
 package ms8;
+//1248. Count Number of Nice Subarrays
 // resolve this question using map approach
 //https://www.youtube.com/watch?v=JpXlsCAD1kg
 class Solution {
